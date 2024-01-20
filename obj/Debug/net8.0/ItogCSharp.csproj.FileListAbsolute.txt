@@ -1,0 +1,14 @@
+C:\Users\elovg\Desktop\ItogCSharp\bin\Debug\net8.0\ItogCSharp.exe
+C:\Users\elovg\Desktop\ItogCSharp\bin\Debug\net8.0\ItogCSharp.deps.json
+C:\Users\elovg\Desktop\ItogCSharp\bin\Debug\net8.0\ItogCSharp.runtimeconfig.json
+C:\Users\elovg\Desktop\ItogCSharp\bin\Debug\net8.0\ItogCSharp.dll
+C:\Users\elovg\Desktop\ItogCSharp\bin\Debug\net8.0\ItogCSharp.pdb
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ItogCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ItogCSharp.AssemblyInfoInputs.cache
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ItogCSharp.AssemblyInfo.cs
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ItogCSharp.csproj.CoreCompileInputs.cache
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ItogCSharp.dll
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\refint\ItogCSharp.dll
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ItogCSharp.pdb
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ItogCSharp.genruntimeconfig.cache
+C:\Users\elovg\Desktop\ItogCSharp\obj\Debug\net8.0\ref\ItogCSharp.dll
